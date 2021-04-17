@@ -1,5 +1,5 @@
 # Discovering Topic Representative Terms for Short Text Clustering (TRTD)
-Source code for paper: "[Discovering Topic Representative Terms for Short Text Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756216)" 
+Source code for method TRTD: "[Discovering Topic Representative Terms for Short Text Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8756216)" 
 
 # How to run
 ``` python kwg_discovery_clustering.py -d dataset/Tweet_merged_50  --gamma 30 --theta 0.8 --delta 0.1```
